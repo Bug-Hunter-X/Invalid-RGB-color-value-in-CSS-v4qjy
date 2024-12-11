@@ -1,0 +1,7 @@
+The corrected CSS rule uses a valid RGB color value. The red component is changed from 256 to 255. 
+
+```css
+.container {
+  background-color: rgb(255, 0, 0);
+}
+```
